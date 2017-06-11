@@ -1,4 +1,5 @@
 ### The shopping cart on react-redux. 
+Try it here [link to view the app](https://vitalikplus.github.io/mycart-react-redux/ "mycart-react-redux app")
 This is the simple react-redux app for the shopping cart. There are 2 container: products and cart. The products can be added to the cart.  The quantity of the product can be incremented in the cart. Total cost of cart items and total for the cart are calculated on the fly. 
 
 #### The possible improvements: 
