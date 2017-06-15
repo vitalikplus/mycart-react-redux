@@ -1,5 +1,5 @@
 ### The shopping cart on react-redux. 
-Try it here [link to view the app](https://vitalikplus.github.io/mycart-react-redux/ "mycart-react-redux app")
+Try it here [link to view the app](https://vitalikplus.github.io/shopping-cart-react-redux/ "mycart-react-redux app")
 This is the simple react-redux app for the shopping cart.  
 
 #### The main features: 
